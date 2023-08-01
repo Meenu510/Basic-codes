@@ -1,7 +1,7 @@
 /*LOGIC:
 1. input array
 2. sort array
-3. find largest element*/
+3. find kth largest element*/
 #include<iostream>
 using namespace std;
 int main(){
