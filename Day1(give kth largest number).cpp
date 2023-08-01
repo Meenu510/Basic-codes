@@ -7,7 +7,7 @@ using namespace std;
 int main(){
 	int arr[10];
 	int n=sizeof(arr)/sizeof(arr[0]);
-	cout<<"Enter the size of the array: ";
+	cout<<"Enter the size of the array(upto 10): ";
 	cin>>n;
 	cout<<"Enter the array: ";
 	for(int i=0;i<n;i++){
