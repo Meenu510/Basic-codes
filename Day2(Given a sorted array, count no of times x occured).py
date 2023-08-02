@@ -1,4 +1,5 @@
-def count(a,n,x):
+#Given a sorted array arr[] and a number x, write a function that counts the occurrences of x in arr[]
+def count(a,n,x):                                      #function to count
     c=0;
     for i in range(n):
         if x==a[i]:
