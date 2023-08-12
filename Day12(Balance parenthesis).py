@@ -14,4 +14,4 @@ def is_balanced(s):
     return not stack
 
 S = "{[()]}"
-print(is_balanced(S))  # This should return True
+print(is_balanced(S)) 
